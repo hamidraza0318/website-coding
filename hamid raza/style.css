@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    position: absolute;
+    margin: 0;
+    top: 50px;
+    width: 50%;
+    height: 60px;
+    left: 350px;
+    border-radius: 10px;
+}
+
+#img2{
+    position: relative;
+    right: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 30px;
+}
+.head{
+    position: absolute;
+    top: 200px;
+    text-align: center;
+    left: 500px;
+    
+
+}
+h3,h1,p{
+    color:black;
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
